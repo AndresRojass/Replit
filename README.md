@@ -1,1 +1,1 @@
-# Replitt
+# Replit
